@@ -1,2 +1,2 @@
 this is file created for test
-This file is updated on server.
+This file is on server.
